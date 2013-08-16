@@ -21,3 +21,6 @@ If you want finer control over the address and data fields, you can employ the "
 
 ## Creating Serial Frames without the Tool ##
 The Basler documentation offers several examples near the end of the document that explain how to compile a "frame", or serial string that communicates with the camera.
+
++ Frame trigger?
++ Frame trigger line?
